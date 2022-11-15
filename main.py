@@ -6,5 +6,4 @@ if __name__ == '__main__':
     a = 0.95
     b = 0.2
     y = 0.2
-    x = start(iteration, quantity, a, b, y)
-    print(x)
+    start(iteration, quantity, a, b, y)
